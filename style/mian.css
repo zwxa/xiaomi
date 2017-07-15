@@ -123,9 +123,11 @@ body { font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", "Hi
     margin:0 auto;
     position:relative;
 }
+
 #slideshow ul, #slideshow ul li, #slideshow-nav{
     list-style:none;
     position:absolute;
+    cursor: pointer;
 }
 #slideshow-nav{
     width:100%;
